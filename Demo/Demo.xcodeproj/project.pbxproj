@@ -16,6 +16,7 @@
 		6F556C702160B4AA00E5E183 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C6F2160B4AA00E5E183 /* DemoTests.m */; };
 		6F556C7B2160B4AA00E5E183 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C7A2160B4AA00E5E183 /* DemoUITests.m */; };
 		6F556C902160B64100E5E183 /* add.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C8F2160B64100E5E183 /* add.m */; };
+		6F556C962160B6BB00E5E183 /* add2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C952160B6BB00E5E183 /* add2.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		6F556C7C2160B4AA00E5E183 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F556C8E2160B64100E5E183 /* add.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add.h; sourceTree = "<group>"; };
 		6F556C8F2160B64100E5E183 /* add.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add.m; sourceTree = "<group>"; };
+		6F556C942160B6BB00E5E183 /* add2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add2.h; sourceTree = "<group>"; };
+		6F556C952160B6BB00E5E183 /* add2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add2.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				6F556C5A2160B4AA00E5E183 /* ViewController.m */,
 				6F556C8E2160B64100E5E183 /* add.h */,
 				6F556C8F2160B64100E5E183 /* add.m */,
+				6F556C942160B6BB00E5E183 /* add2.h */,
+				6F556C952160B6BB00E5E183 /* add2.m */,
 				6F556C5C2160B4AA00E5E183 /* Main.storyboard */,
 				6F556C5F2160B4AA00E5E183 /* Assets.xcassets */,
 				6F556C612160B4AA00E5E183 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F556C962160B6BB00E5E183 /* add2.m in Sources */,
 				6F556C5B2160B4AA00E5E183 /* ViewController.m in Sources */,
 				6F556C902160B64100E5E183 /* add.m in Sources */,
 				6F556C662160B4AA00E5E183 /* main.m in Sources */,
