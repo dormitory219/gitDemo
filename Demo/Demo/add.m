@@ -10,4 +10,10 @@
 
 @implementation add
 
+
+- (void)gg
+{
+    
+}
+
 @end
