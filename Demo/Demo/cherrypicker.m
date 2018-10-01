@@ -10,4 +10,9 @@
 
 @implementation cherrypicker
 
+- (void)setNeedsUpdateOfScreenEdgesDeferringSystemGestures1
+{
+    
+}
+
 @end
