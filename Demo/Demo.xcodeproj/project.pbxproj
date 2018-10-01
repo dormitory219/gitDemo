@@ -20,6 +20,7 @@
 		E63B6C412162169900D6C946 /* add4.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C402162169900D6C946 /* add4.m */; };
 		E63B6C4A2162666200D6C946 /* Branch1.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C492162666200D6C946 /* Branch1.m */; };
 		E63B6C4D21626AAC00D6C946 /* feature2.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C4C21626AAC00D6C946 /* feature2.m */; };
+		E63B6C5021626E9E00D6C946 /* cherrypicker.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C4F21626E9E00D6C946 /* cherrypicker.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,8 @@
 		E63B6C492162666200D6C946 /* Branch1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Branch1.m; sourceTree = "<group>"; };
 		E63B6C4B21626AAC00D6C946 /* feature2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = feature2.h; sourceTree = "<group>"; };
 		E63B6C4C21626AAC00D6C946 /* feature2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = feature2.m; sourceTree = "<group>"; };
+		E63B6C4E21626E9E00D6C946 /* cherrypicker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cherrypicker.h; sourceTree = "<group>"; };
+		E63B6C4F21626E9E00D6C946 /* cherrypicker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cherrypicker.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +133,8 @@
 				E63B6C492162666200D6C946 /* Branch1.m */,
 				E63B6C4B21626AAC00D6C946 /* feature2.h */,
 				E63B6C4C21626AAC00D6C946 /* feature2.m */,
+				E63B6C4E21626E9E00D6C946 /* cherrypicker.h */,
+				E63B6C4F21626E9E00D6C946 /* cherrypicker.m */,
 				6F556C5C2160B4AA00E5E183 /* Main.storyboard */,
 				6F556C5F2160B4AA00E5E183 /* Assets.xcassets */,
 				6F556C612160B4AA00E5E183 /* LaunchScreen.storyboard */,
@@ -296,6 +301,7 @@
 				E63B6C4D21626AAC00D6C946 /* feature2.m in Sources */,
 				6F556C902160B64100E5E183 /* add.m in Sources */,
 				6F556C662160B4AA00E5E183 /* main.m in Sources */,
+				E63B6C5021626E9E00D6C946 /* cherrypicker.m in Sources */,
 				E63B6C4A2162666200D6C946 /* Branch1.m in Sources */,
 				6F556C582160B4AA00E5E183 /* AppDelegate.m in Sources */,
 			);
