@@ -19,6 +19,10 @@
 		6F556C962160B6BB00E5E183 /* add2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C952160B6BB00E5E183 /* add2.m */; };
 		E63B6C412162169900D6C946 /* add4.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C402162169900D6C946 /* add4.m */; };
 		E63B6C4A2162666200D6C946 /* Branch1.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C492162666200D6C946 /* Branch1.m */; };
+		E63B6C4D21626AAC00D6C946 /* feature2.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C4C21626AAC00D6C946 /* feature2.m */; };
+		E63B6C5021626E9E00D6C946 /* cherrypicker.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C4F21626E9E00D6C946 /* cherrypicker.m */; };
+		E63B6C56216271B600D6C946 /* dsfdf.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C55216271B600D6C946 /* dsfdf.m */; };
+		E63B6C652162864C00D6C946 /* add5.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C642162864C00D6C946 /* add5.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +67,16 @@
 		E63B6C402162169900D6C946 /* add4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add4.m; sourceTree = "<group>"; };
 		E63B6C482162666200D6C946 /* Branch1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Branch1.h; sourceTree = "<group>"; };
 		E63B6C492162666200D6C946 /* Branch1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Branch1.m; sourceTree = "<group>"; };
+		E63B6C4B21626AAC00D6C946 /* feature2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = feature2.h; sourceTree = "<group>"; };
+		E63B6C4C21626AAC00D6C946 /* feature2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = feature2.m; sourceTree = "<group>"; };
+		E63B6C4E21626E9E00D6C946 /* cherrypicker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cherrypicker.h; sourceTree = "<group>"; };
+		E63B6C4F21626E9E00D6C946 /* cherrypicker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cherrypicker.m; sourceTree = "<group>"; };
+		E63B6C5121626ECC00D6C946 /* cheerypcik1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = cheerypcik1.h; sourceTree = "<group>"; };
+		E63B6C5221626ECC00D6C946 /* cheerypcik1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cheerypcik1.m; sourceTree = "<group>"; };
+		E63B6C54216271B600D6C946 /* dsfdf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dsfdf.h; sourceTree = "<group>"; };
+		E63B6C55216271B600D6C946 /* dsfdf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dsfdf.m; sourceTree = "<group>"; };
+		E63B6C632162864C00D6C946 /* add5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add5.h; sourceTree = "<group>"; };
+		E63B6C642162864C00D6C946 /* add5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add5.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,8 +137,18 @@
 				6F556C952160B6BB00E5E183 /* add2.m */,
 				E63B6C3F2162169900D6C946 /* add4.h */,
 				E63B6C402162169900D6C946 /* add4.m */,
+				E63B6C632162864C00D6C946 /* add5.h */,
+				E63B6C642162864C00D6C946 /* add5.m */,
 				E63B6C482162666200D6C946 /* Branch1.h */,
 				E63B6C492162666200D6C946 /* Branch1.m */,
+				E63B6C4B21626AAC00D6C946 /* feature2.h */,
+				E63B6C4C21626AAC00D6C946 /* feature2.m */,
+				E63B6C4E21626E9E00D6C946 /* cherrypicker.h */,
+				E63B6C4F21626E9E00D6C946 /* cherrypicker.m */,
+				E63B6C5121626ECC00D6C946 /* cheerypcik1.h */,
+				E63B6C5221626ECC00D6C946 /* cheerypcik1.m */,
+				E63B6C54216271B600D6C946 /* dsfdf.h */,
+				E63B6C55216271B600D6C946 /* dsfdf.m */,
 				6F556C5C2160B4AA00E5E183 /* Main.storyboard */,
 				6F556C5F2160B4AA00E5E183 /* Assets.xcassets */,
 				6F556C612160B4AA00E5E183 /* LaunchScreen.storyboard */,
@@ -286,11 +310,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				E63B6C412162169900D6C946 /* add4.m in Sources */,
+				E63B6C652162864C00D6C946 /* add5.m in Sources */,
 				6F556C962160B6BB00E5E183 /* add2.m in Sources */,
 				6F556C5B2160B4AA00E5E183 /* ViewController.m in Sources */,
+				E63B6C4D21626AAC00D6C946 /* feature2.m in Sources */,
 				6F556C902160B64100E5E183 /* add.m in Sources */,
 				6F556C662160B4AA00E5E183 /* main.m in Sources */,
+				E63B6C5021626E9E00D6C946 /* cherrypicker.m in Sources */,
 				E63B6C4A2162666200D6C946 /* Branch1.m in Sources */,
+				E63B6C56216271B600D6C946 /* dsfdf.m in Sources */,
 				6F556C582160B4AA00E5E183 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
