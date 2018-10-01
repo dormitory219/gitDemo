@@ -10,4 +10,9 @@
 
 @implementation cheerypcik1
 
+- (void)gg
+{
+    
+}
+
 @end
