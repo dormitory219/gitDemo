@@ -17,7 +17,6 @@
 		6F556C7B2160B4AA00E5E183 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C7A2160B4AA00E5E183 /* DemoUITests.m */; };
 		6F556C902160B64100E5E183 /* add.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C8F2160B64100E5E183 /* add.m */; };
 		6F556C962160B6BB00E5E183 /* add2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F556C952160B6BB00E5E183 /* add2.m */; };
-		E63B6C412162169900D6C946 /* add4.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C402162169900D6C946 /* add4.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,8 +57,6 @@
 		6F556C8F2160B64100E5E183 /* add.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add.m; sourceTree = "<group>"; };
 		6F556C942160B6BB00E5E183 /* add2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add2.h; sourceTree = "<group>"; };
 		6F556C952160B6BB00E5E183 /* add2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add2.m; sourceTree = "<group>"; };
-		E63B6C3F2162169900D6C946 /* add4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add4.h; sourceTree = "<group>"; };
-		E63B6C402162169900D6C946 /* add4.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add4.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,8 +115,6 @@
 				6F556C8F2160B64100E5E183 /* add.m */,
 				6F556C942160B6BB00E5E183 /* add2.h */,
 				6F556C952160B6BB00E5E183 /* add2.m */,
-				E63B6C3F2162169900D6C946 /* add4.h */,
-				E63B6C402162169900D6C946 /* add4.m */,
 				6F556C5C2160B4AA00E5E183 /* Main.storyboard */,
 				6F556C5F2160B4AA00E5E183 /* Assets.xcassets */,
 				6F556C612160B4AA00E5E183 /* LaunchScreen.storyboard */,
@@ -280,7 +275,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E63B6C412162169900D6C946 /* add4.m in Sources */,
 				6F556C962160B6BB00E5E183 /* add2.m in Sources */,
 				6F556C5B2160B4AA00E5E183 /* ViewController.m in Sources */,
 				6F556C902160B64100E5E183 /* add.m in Sources */,
