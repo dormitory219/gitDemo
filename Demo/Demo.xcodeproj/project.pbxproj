@@ -23,6 +23,7 @@
 		E63B6C5021626E9E00D6C946 /* cherrypicker.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C4F21626E9E00D6C946 /* cherrypicker.m */; };
 		E63B6C56216271B600D6C946 /* dsfdf.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C55216271B600D6C946 /* dsfdf.m */; };
 		E63B6C652162864C00D6C946 /* add5.m in Sources */ = {isa = PBXBuildFile; fileRef = E63B6C642162864C00D6C946 /* add5.m */; };
+		E6C228312163A69700459BCD /* dsds.m in Sources */ = {isa = PBXBuildFile; fileRef = E6C228302163A69700459BCD /* dsds.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +78,8 @@
 		E63B6C55216271B600D6C946 /* dsfdf.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dsfdf.m; sourceTree = "<group>"; };
 		E63B6C632162864C00D6C946 /* add5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = add5.h; sourceTree = "<group>"; };
 		E63B6C642162864C00D6C946 /* add5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = add5.m; sourceTree = "<group>"; };
+		E6C2282F2163A69700459BCD /* dsds.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dsds.h; sourceTree = "<group>"; };
+		E6C228302163A69700459BCD /* dsds.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dsds.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +142,8 @@
 				E63B6C402162169900D6C946 /* add4.m */,
 				E63B6C632162864C00D6C946 /* add5.h */,
 				E63B6C642162864C00D6C946 /* add5.m */,
+				E6C2282F2163A69700459BCD /* dsds.h */,
+				E6C228302163A69700459BCD /* dsds.m */,
 				E63B6C482162666200D6C946 /* Branch1.h */,
 				E63B6C492162666200D6C946 /* Branch1.m */,
 				E63B6C4B21626AAC00D6C946 /* feature2.h */,
@@ -312,6 +317,7 @@
 				E63B6C412162169900D6C946 /* add4.m in Sources */,
 				E63B6C652162864C00D6C946 /* add5.m in Sources */,
 				6F556C962160B6BB00E5E183 /* add2.m in Sources */,
+				E6C228312163A69700459BCD /* dsds.m in Sources */,
 				6F556C5B2160B4AA00E5E183 /* ViewController.m in Sources */,
 				E63B6C4D21626AAC00D6C946 /* feature2.m in Sources */,
 				6F556C902160B64100E5E183 /* add.m in Sources */,
