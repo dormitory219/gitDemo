@@ -17,7 +17,11 @@
 
 - (void)gg
 {
+<<<<<<< HEAD
     q4 remote
+=======
+    q4 local;
+>>>>>>> q4 local
     q3;
     q2;
     q1;
