@@ -17,7 +17,7 @@
 
 - (void)gg
 {
-    
+    remote
 }
 
 @end
