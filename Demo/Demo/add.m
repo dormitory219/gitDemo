@@ -18,6 +18,7 @@
 - (void)gg
 {
     d1;
+    d2;
 ggg;
 =======
     ttttt;
