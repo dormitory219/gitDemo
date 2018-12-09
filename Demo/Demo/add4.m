@@ -23,8 +23,15 @@
 //mater m11
 //mater m11=2
 
+<<<<<<< HEAD
 //mater m12 f
 
 //mater m12
 
+=======
+//mater m12
+
+//mater m12 f
+
+>>>>>>> f21
 @end
