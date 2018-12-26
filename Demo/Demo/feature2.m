@@ -11,6 +11,9 @@
 @implementation feature2
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> ff6 add
 @end
