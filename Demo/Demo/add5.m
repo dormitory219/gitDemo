@@ -9,6 +9,7 @@
 #import "add5.h"
 
 @implementation add5
+  23
 //mater1
 
 //mater2
